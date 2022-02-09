@@ -2,9 +2,8 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>
-![](https://hit.yhype.me/github/profile?user_id=373900)
 
-### <div align="center">I'm Alexandre, an engineer student 👨‍💻 graduating in 2023 🚀</div>  
+### <div align="center">I'm Alexandre, an engineer student 👨‍💻 I'll be graduating in 2023 🚀</div>  
   
 
 - 🔭 I’m currently working on [Molkky Project](https://github.com/SimonDuperray/projet_molkky)  
@@ -108,3 +107,4 @@
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+![](https://hit.yhype.me/github/profile?user_id=373900)
