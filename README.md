@@ -15,7 +15,7 @@
 - ❓ Ask me about anything related to motorsport 🏎️  
   
 
-- ⚡ Fun fact: I use tabs over spaces (yes !). Also, I hate Java.  
+- ⚡ Fun fact: I use spaces over tabs (yes !). Also, I hate Java.  
   
 
 <br/>  
