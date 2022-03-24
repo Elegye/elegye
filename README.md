@@ -15,7 +15,7 @@
 - ❓ Ask me about anything related to motorsport 🏎️  
   
 
-- ⚡ Fun fact: I use spaces over tabs (yes !). Also, I hate Java.  
+- ⚡ Fun fact: I use spaces over tabs (yes !). Also, I hate Java. No, I love Java. I just find its ecosystem a bit weird, despite being way consistent than Node.js ...  
   
 
 <br/>  
