@@ -6,10 +6,10 @@
 ### <div align="center">I'm Alexandre, an engineer student 👨‍💻 I'll be graduating in 2023 🚀</div>  
   
 
-- 🔭 I’m currently working on [Molkky Project](https://github.com/SimonDuperray/projet_molkky)  
+- 🔭 I’m currently working on [SportsCarData](https://github.com/Elegye/SportsCarData) 
   
 
-- 🌱 I’m currently learning Java  
+- 🌱 I’m currently learning C++
   
 
 - ❓ Ask me about anything related to motorsport 🏎️  
